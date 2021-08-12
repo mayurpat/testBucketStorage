@@ -1,2 +1,6 @@
 # testBucketStorage
-This api is used to store object in bucket by given bucket.
+
+This module support object storage under various buckets.
+
+##Contact
+Max Patel @email:mayurpat_in@yahoo.com 
